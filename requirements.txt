@@ -1,9 +1,9 @@
 streamlit
 langchain
 langchain-community
-langchain-openai
-pypdf
-faiss-cpu
-python-dotenv
+langchain-groq
 langchain-huggingface
 sentence-transformers
+faiss-cpu
+pypdf
+pandas
